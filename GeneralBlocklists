@@ -1,0 +1,70 @@
+# Title: LittleCordines/hosts
+# Updated version which is most blacklists still not blocking this listed domains
+# Still in progress & will be updated frequently
+#
+# Date: 09 September 2019 09:20:59 (GMT)
+# Number of unique domains: 31
+
+0.0.0.0 sg26.tcdn.me
+0.0.0.0 sg19.tcdn.me
+0.0.0.0 sweetring.com
+0.0.0.0 yome.live
+0.0.0.0 tantanapp.com
+0.0.0.0 hiido.com
+0.0.0.0 dafapromo.com
+0.0.0.0 images-ssl.gotinder.com
+0.0.0.0 gotinder.com
+0.0.0.0 tinder.com
+0.0.0.0 api.gotinder.com
+0.0.0.0 tindersparks.com
+0.0.0.0 etl.tindersparks.com
+0.0.0.0 gotinder.com
+0.0.0.0 keepalive.gotinder.com
+0.0.0.0 z-p3-video.fszb1-1.fna.fbcdn.net
+0.0.0.0 z-p3-video.fkul18-1.fna.fbcdn.net
+0.0.0.0 video.twimg.com
+0.0.0.0 api-stream.twitter.com
+0.0.0.0 realclearprivacy.biz
+0.0.0.0 windscribe.com
+0.0.0.0 tunnelbear.com
+0.0.0.0 surfshark.com
+0.0.0.0 cyberghostvpn.com
+0.0.0.0 ipvanish.com
+0.0.0.0 expressvpn.com
+0.0.0.0 nordvpn.com
+0.0.0.0 tongdun.net
+0.0.0.0 wwnc.xyz
+0.0.0.0 123mkv.cc
+0.0.0.0 zee5.com
+0.0.0.0 dailymotion.com
+0.0.0.0 unblocked.lol
+0.0.0.0 pinterest.com
+0.0.0.0 pinterest.dk
+0.0.0.0 pinterest.ca
+0.0.0.0 tumblr.com
+0.0.0.0 tumbex.com
+0.0.0.0 bigo.sg
+0.0.0.0 bigo.tv
+0.0.0.0 17.live
+0.0.0.0 nonolive.com
+0.0.0.0 tango.me
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 tiktok.com
+0.0.0.0 tiktok.tv
+0.0.0.0 ns-1347.awsdns-40.org
+0.0.0.0 ns-1676.awsdns-17.co.uk
+0.0.0.0 ns-473.awsdns-59.com
+0.0.0.0 ns-631.awsdns-14.net
+0.0.0.0 ns-1501.awsdns-59.org
+0.0.0.0 ns-1708.awsdns-21.co.uk
+0.0.0.0 ns-347.awsdns-43.com
+0.0.0.0 ns-955.awsdns-55.net
+0.0.0.0 ns-1475.awsdns-56.org
+0.0.0.0 ns-440.awsdns-55.com
+0.0.0.0 ns-1574.awsdns-04.co.uk
+0.0.0.0 ns-440.awsdns-55.com
+0.0.0.0 ns-722.awsdns-26.net
+
+# End
+# blacklist
