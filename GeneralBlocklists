@@ -5,16 +5,17 @@
 # Date: 09 September 2019 09:20:59 (GMT)
 # Number of unique domains: 31
 
+0.0.0.0 pinterest.dk
+0.0.0.0 pinterest.ca
+
+#[Movie Download Site]
 0.0.0.0 tv21.biz
 0.0.0.0 tv21.org
+
+#[Android OS Update]
 0.0.0.0 coloros.com
-0.0.0.0 tmmlove.com
-0.0.0.0 thor-hammer.me
-0.0.0.0 worldwidetds.com
-0.0.0.0 zumzumsrv81.live
-0.0.0.0 kwai.com
-0.0.0.0 kwai.net
-0.0.0.0 torproject.org
+
+#[Advertising]
 0.0.0.0 sg26.tcdn.me
 0.0.0.0 sg19.tcdn.me
 0.0.0.0 sweetring.com
@@ -30,10 +31,20 @@
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 gotinder.com
 0.0.0.0 keepalive.gotinder.com
+0.0.0.0 tmmlove.com
+0.0.0.0 thor-hammer.me
+0.0.0.0 worldwidetds.com
+0.0.0.0 zumzumsrv81.live
+
+#[Facebook/Tweeter Video Stream]
 0.0.0.0 z-p3-video.fszb1-1.fna.fbcdn.net
 0.0.0.0 z-p3-video.fkul18-1.fna.fbcdn.net
 0.0.0.0 video.twimg.com
 0.0.0.0 api-stream.twitter.com
+
+#[VPN Site]
+0.0.0.0 torproject.org
+0.0.0.0 nordvpn.com
 0.0.0.0 realclearprivacy.biz
 0.0.0.0 windscribe.com
 0.0.0.0 tunnelbear.com
@@ -48,8 +59,10 @@
 0.0.0.0 dailymotion.com
 0.0.0.0 unblocked.lol
 0.0.0.0 pinterest.com
-0.0.0.0 pinterest.dk
-0.0.0.0 pinterest.ca
+
+#[Dating Apps]
+0.0.0.0 kwai.com
+0.0.0.0 kwai.net
 0.0.0.0 tumblr.com
 0.0.0.0 tumbex.com
 0.0.0.0 bigo.sg
