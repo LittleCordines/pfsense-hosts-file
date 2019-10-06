@@ -5,6 +5,7 @@
 # Date: 09 September 2019 09:20:59 (GMT)
 # Number of unique domains: 31
 
+0.0.0.0 rongcloud.cn
 0.0.0.0 sickchirpse.com
 0.0.0.0 ipinfo.io
 0.0.0.0 pinterest.dk
@@ -64,6 +65,9 @@
 0.0.0.0 pinterest.com
 
 #[Dating Apps]
+0.0.0.0 zegocloud.com
+0.0.0.0 zego.im
+0.0.0.0 mangolive.tv
 0.0.0.0 kwai.com
 0.0.0.0 kwai.net
 0.0.0.0 tumblr.com
