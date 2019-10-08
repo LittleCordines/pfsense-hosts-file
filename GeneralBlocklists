@@ -11,6 +11,7 @@
 0.0.0.0 ipinfo.io
 0.0.0.0 pinterest.dk
 0.0.0.0 pinterest.ca
+0.0.0.0 pinterest.com
 
 #[Movie Download Site]
 0.0.0.0 tv21.biz
@@ -63,9 +64,13 @@
 0.0.0.0 zee5.com
 0.0.0.0 dailymotion.com
 0.0.0.0 unblocked.lol
-0.0.0.0 pinterest.com
 
 #[Dating Apps]
+0.0.0.0 shuzilm.cn
+0.0.0.0 qq.com
+0.0.0.0 faceunity.com
+0.0.0.0 95xiu.com
+0.0.0.0 news-back.com
 0.0.0.0 zegocloud.com
 0.0.0.0 zego.im
 0.0.0.0 mangolive.tv
