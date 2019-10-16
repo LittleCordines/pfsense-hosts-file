@@ -5,6 +5,13 @@
 # Date: 09 September 2019 09:20:59 (GMT)
 # Number of unique domains: 31
 
+0.0.0.0	verystream.com
+0.0.0.0	videos-a.jwpsrv.com
+0.0.0.0	imgfile.net
+0.0.0.0	mobiaxm.com
+0.0.0.0	latestsocial.com
+0.0.0.0	grooksom.com
+0.0.0.0	woazowup.net
 0.0.0.0 360.cn
 0.0.0.0 rongcloud.cn
 0.0.0.0 sickchirpse.com
@@ -22,6 +29,9 @@
 0.0.0.0 miui.com
 
 #[Advertising]
+0.0.0.0	regal88.net
+0.0.0.0	pyq6n.com
+0.0.0.0	duedatetoday2.live
 0.0.0.0 sg26.tcdn.me
 0.0.0.0 sg19.tcdn.me
 0.0.0.0 sweetring.com
@@ -49,6 +59,7 @@
 0.0.0.0 api-stream.twitter.com
 
 #[VPN Site]
+0.0.0.0	freevpn.win
 0.0.0.0 torproject.org
 0.0.0.0 nordvpn.com
 0.0.0.0 realclearprivacy.biz
