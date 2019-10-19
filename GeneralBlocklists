@@ -5,17 +5,6 @@
 # Date: 09 September 2019 09:20:59 (GMT)
 # Number of unique domains: 31
 
-0.0.0.0 movisubmalay.com
-0.0.0.0	bangbrossurvey.com
-0.0.0.0	dspmulti.com
-0.0.0.0	pyq6n.com
-0.0.0.0	adsupplyads.net
-0.0.0.0	jf71qh5v14.com
-0.0.0.0	uod2quk646.com
-0.0.0.0	constintptr.com
-0.0.0.0	exosrv.com
-0.0.0.0	syndication.exosrv.com
-0.0.0.0	online-survey-platform.com
 0.0.0.0	cobalten.com
 0.0.0.0	mobiaxm.com
 0.0.0.0	123clk.com
@@ -48,10 +37,6 @@
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 gotinder.com
 0.0.0.0 keepalive.gotinder.com
-0.0.0.0 tmmlove.com
-0.0.0.0 thor-hammer.me
-0.0.0.0 worldwidetds.com
-0.0.0.0 zumzumsrv81.live
 0.0.0.0 hackersmode.blogspot.com
 0.0.0.0	verystream.com
 0.0.0.0	videos-a.jwpsrv.com
@@ -69,6 +54,7 @@
 0.0.0.0 pinterest.com
 
 #[Movie Download Site]
+0.0.0.0 movisubmalay.com
 0.0.0.0 tv21.biz
 0.0.0.0 tv21.org
 
@@ -77,6 +63,24 @@
 0.0.0.0 miui.com
 
 #[Advertising]
+0.0.0.0 tmmlove.com
+0.0.0.0 thor-hammer.me
+0.0.0.0 worldwidetds.com
+0.0.0.0 zumzumsrv81.live
+0.0.0.0	bangbrossurvey.com
+0.0.0.0	dspmulti.com
+0.0.0.0	pyq6n.com
+0.0.0.0	adsupplyads.net
+0.0.0.0	jf71qh5v14.com
+0.0.0.0	uod2quk646.com
+0.0.0.0	constintptr.com
+0.0.0.0	exosrv.com
+0.0.0.0	syndication.exosrv.com
+0.0.0.0	online-survey-platform.com
+0.0.0.0 anymad.com
+0.0.0.0 oyi9f1kbaj.com
+0.0.0.0 zendplace.pro
+0.0.0.0 a.xxe2.com
 0.0.0.0 boss188.com
 0.0.0.0	regal88.net
 0.0.0.0	pyq6n.com
