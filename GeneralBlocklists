@@ -174,8 +174,6 @@
 0.0.0.0 kwai.net
 0.0.0.0 tumblr.com
 0.0.0.0 tumbex.com
-0.0.0.0 bigo.sg
-0.0.0.0 bigo.tv
 0.0.0.0 17.live
 0.0.0.0 nonolive.com
 0.0.0.0 tango.me
@@ -183,6 +181,11 @@
 0.0.0.0 tiktokv.com
 0.0.0.0 tiktok.com
 0.0.0.0 tiktok.tv
+
+#[Bigo]
+0.0.0.0 bigo.sg
+0.0.0.0 bigo.tv
+0.0.0.0 bigolive.tv
 0.0.0.0 ns-1347.awsdns-40.org
 0.0.0.0 ns-1676.awsdns-17.co.uk
 0.0.0.0 ns-473.awsdns-59.com
@@ -196,6 +199,14 @@
 0.0.0.0 ns-1574.awsdns-04.co.uk
 0.0.0.0 ns-440.awsdns-55.com
 0.0.0.0 ns-722.awsdns-26.net
+0.0.0.0 ns-1116.awsdns-11.org
+0.0.0.0 ns-1116.awsdns-11.org
+0.0.0.0 ns-1688.awsdns-19.co.uk
+0.0.0.0 ns-1688.awsdns-19.co.uk
+0.0.0.0 ns-499.awsdns-62.com
+0.0.0.0 ns-499.awsdns-62.com
+0.0.0.0 ns-660.awsdns-18.net
+0.0.0.0 ns-660.awsdns-18.net
 
 #[Useless Apps]
 0.0.0.0 37games.com
