@@ -132,6 +132,7 @@
 0.0.0.0 zumzumsrv81.live
 
 #[Facebook/Tweeter Video Stream]
+0.0.0.0 z-p3-video.fszb2-1.fna.fbcdn.net
 0.0.0.0 z-p3-video.fszb1-1.fna.fbcdn.net
 0.0.0.0 z-p3-video.fkul18-1.fna.fbcdn.net
 0.0.0.0 video.twimg.com
@@ -216,6 +217,7 @@
 0.0.0.0 ns-660.awsdns-18.net
 
 #[Useless Apps]
+0.0.0.0 oktv.com
 0.0.0.0 37games.com
 0.0.0.0 geventsapi.37games.com
 0.0.0.0 gpassport.37games.com
