@@ -138,8 +138,6 @@
 0.0.0.0 z-p3-video.fszb2-1.fna.fbcdn.net
 0.0.0.0 z-p3-video.fszb1-1.fna.fbcdn.net
 0.0.0.0 z-p3-video.fkul18-1.fna.fbcdn.net
-0.0.0.0 video.twimg.com
-0.0.0.0 api-stream.twitter.com
 
 #[VPN Site]
 0.0.0.0	freevpn.win
