@@ -79,6 +79,9 @@
 0.0.0.0 pinterest.ca
 0.0.0.0 pinterest.com
 
+#[ModdedApkSites]
+0.0.0.0 modapkdl.io
+
 #[Movie Download Site]
 0.0.0.0 dramacool.video
 0.0.0.0 cgv.id
