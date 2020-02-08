@@ -5,7 +5,6 @@
 # Date: 20 January 2020 10:20:59 (GMT)
 # Number of unique domains: 90
 
-0.0.0.0 autocentral.org
 0.0.0.0 kktv7.com
 0.0.0.0 viu.com
 0.0.0.0 sightlogicsurvey.com
@@ -83,6 +82,9 @@
 0.0.0.0 pinterest.dk
 0.0.0.0 pinterest.ca
 0.0.0.0 pinterest.com
+
+#[Psiphon]
+0.0.0.0 autocentral.org
 
 #[ModdedApkSites]
 0.0.0.0 modapkdl.io
