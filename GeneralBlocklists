@@ -87,6 +87,7 @@
 
 #[Psiphon]
 0.0.0.0 autocentral.org
+0.0.0.0 buydomains.com
 
 #[ModdedApkSites]
 0.0.0.0 modapkdl.io
