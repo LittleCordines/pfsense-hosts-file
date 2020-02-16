@@ -91,6 +91,7 @@
 #[Psiphon]
 0.0.0.0 autocentral.org
 0.0.0.0 buydomains.com
+0.0.0.0 nasageturkey.com
 
 #[ModdedApkSites]
 0.0.0.0 modapkdl.io
