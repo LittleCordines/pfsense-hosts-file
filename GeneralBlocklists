@@ -2,8 +2,8 @@
 # Updated version which is most blacklists still not blocking this listed domains
 # Still in progress & will be updated frequently
 #
-# Date: 13 Feb 2020 07:20:59 (GMT)
-# Number of unique domains: 101
+# Date: 20 Feb 2020 07:20:59 (GMT)
+# Number of unique domains: 131
 
 0.0.0.0 lobakmerah.com
 0.0.0.0 r4nwdude.com
@@ -88,6 +88,37 @@
 0.0.0.0 pinterest.dk
 0.0.0.0 pinterest.ca
 0.0.0.0 pinterest.com
+
+#[Online Casino]
+0.0.0.0 regal88.net
+0.0.0.0 twin.com
+0.0.0.0 777.com
+0.0.0.0 888casino.com
+0.0.0.0 casino.org
+0.0.0.0 jackpotcitycasino.com
+0.0.0.0 casino.com
+0.0.0.0 qqclubs.com
+0.0.0.0 netbet.com
+0.0.0.0 mrgreen.com
+0.0.0.0 unibet.com
+0.0.0.0 galacasino.com
+0.0.0.0 leovegas.com
+0.0.0.0 loyalcasino.com
+0.0.0.0 betway.com
+0.0.0.0 playnow.com
+0.0.0.0 gsn.com
+0.0.0.0 betamo.com
+0.0.0.0 casumo.com
+0.0.0.0 theonlinecasino.co.uk
+0.0.0.0 askgamblers.com
+0.0.0.0 redbet.com
+0.0.0.0 betsson.com
+0.0.0.0 32red.com
+0.0.0.0 jackpotcitycasino.com
+0.0.0.0 casinoeuro.com
+0.0.0.0 wildz.com
+0.0.0.0 gametwist.com
+0.0.0.0 daybet365.com
 
 #[Psiphon]
 0.0.0.0 autocentral.org
