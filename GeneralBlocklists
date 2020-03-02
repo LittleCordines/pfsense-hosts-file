@@ -194,7 +194,6 @@
 #[VPN Site]
 0.0.0.0	freevpn.win
 0.0.0.0 torproject.org
-0.0.0.0 nordvpn.com
 0.0.0.0 realclearprivacy.biz
 0.0.0.0 windscribe.com
 0.0.0.0 tunnelbear.com
