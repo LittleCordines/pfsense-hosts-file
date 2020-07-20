@@ -198,6 +198,9 @@
 0.0.0.0 z-p3-video.fszb2-1.fna.fbcdn.net
 0.0.0.0 z-p3-video.fszb1-1.fna.fbcdn.net
 0.0.0.0 z-p3-video.fkul18-1.fna.fbcdn.net
+0.0.0.0 video.fkul18-1.fna.fbcdn.net
+0.0.0.0 video.fkul19-1.fna.fbcdn.net
+0.0.0.0 video.fkul19-2.fna.fbcdn.net
 
 #[VPN Site]
 0.0.0.0	freevpn.win
@@ -281,6 +284,24 @@
 0.0.0.0 ns-499.awsdns-62.com
 0.0.0.0 ns-660.awsdns-18.net
 0.0.0.0 ns-660.awsdns-18.net
+0.0.0.0 tiktokcdn.com
+0.0.0.0 mon-va.tiktokv.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 api16-normal-c-alisg.tiktokv.com
+0.0.0.0 api21-core-c-alisg.tiktokv.com
+0.0.0.0 frontier.tiktokv.com
+0.0.0.0 v9.tiktokcdn.com
+0.0.0.0 v16.tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 live.bigo.sg
+0.0.0.0 bigo.sg
+0.0.0.0 giftesx.bigo.sg
+0.0.0.0 esx.bigo.sg
+0.0.0.0 activity.bigo.tv
+0.0.0.0 bigo.tv
+0.0.0.0 support0.bigo.sg
+0.0.0.0 static-act.bigolive.tv
+0.0.0.0 bigolive.tv
 
 #[Useless Apps]
 0.0.0.0 oktv.com
