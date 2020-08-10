@@ -2,8 +2,8 @@
 # Updated version which is most blacklists still not blocking this listed domains
 # Still in progress & will be updated frequently
 #
-# Date: 26 July 2020 (GMT)
-# Number of unique domains: 360
+# Date: 10 Aug 2020 (GMT)
+# Number of unique domains: 370
 
 0.0.0.0 garena.com
 0.0.0.0 nasageturkey.com
