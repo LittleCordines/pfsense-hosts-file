@@ -5,6 +5,9 @@
 # Date: 26 July 2020 (GMT)
 # Number of unique domains: 360
 
+0.0.0.0 garena.com
+0.0.0.0 nasageturkey.com
+0.0.0.0 alipay.com
 0.0.0.0 mba66bet.com
 0.0.0.0 infiniwin1.net
 0.0.0.0 libedgolart.com
@@ -149,6 +152,7 @@
 #[Android OS Update]
 0.0.0.0 coloros.com
 0.0.0.0 miui.com
+0.0.0.0 updates-http.cdn-apple.com
 
 #[Advertising]
 0.0.0.0 click.accesstra.de
@@ -258,7 +262,7 @@
 0.0.0.0 tiktok.com
 0.0.0.0 tiktok.tv
 
-#[Bigo]
+#[Bigo] #[Tiktok]
 0.0.0.0 bigo.sg
 0.0.0.0 bigo.tv
 0.0.0.0 bigolive.tv
@@ -285,6 +289,9 @@
 0.0.0.0 ns-499.awsdns-62.com
 0.0.0.0 ns-660.awsdns-18.net
 0.0.0.0 ns-660.awsdns-18.net
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 log.tiktokv.com
+0.0.0.0 frontier.tiktokv.com
 0.0.0.0 tiktokcdn.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 log.tiktokv.com
