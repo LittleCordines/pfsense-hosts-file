@@ -200,13 +200,13 @@
 0.0.0.0 zumzumsrv81.live
 
 #[Facebook/Instagram/Tweeter Video Stream]
-## 0.0.0.0 instagram.fszb1-1.fna.fbcdn.net
-## 0.0.0.0 z-p3-video.fszb2-1.fna.fbcdn.net
-## 0.0.0.0 z-p3-video.fszb1-1.fna.fbcdn.net
-## 0.0.0.0 z-p3-video.fkul18-1.fna.fbcdn.net
-## 0.0.0.0 video.fkul18-1.fna.fbcdn.net
-## 0.0.0.0 video.fkul19-1.fna.fbcdn.net
-## 0.0.0.0 video.fkul19-2.fna.fbcdn.net
+# 0.0.0.0 instagram.fszb1-1.fna.fbcdn.net
+# 0.0.0.0 z-p3-video.fszb2-1.fna.fbcdn.net
+# 0.0.0.0 z-p3-video.fszb1-1.fna.fbcdn.net
+# 0.0.0.0 z-p3-video.fkul18-1.fna.fbcdn.net
+# 0.0.0.0 video.fkul18-1.fna.fbcdn.net
+# 0.0.0.0 video.fkul19-1.fna.fbcdn.net
+# 0.0.0.0 video.fkul19-2.fna.fbcdn.net
 
 #[VPN Site]
 0.0.0.0	freevpn.win
