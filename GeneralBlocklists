@@ -2,9 +2,9 @@
 # Updated version which is most blacklists still not blocking this listed domains
 # Still in progress & will be updated frequently
 #
-# Date: 10 Aug 2020 (GMT)
-# Number of unique domains: 370
+# Date: 14 JUNE 2021 (GMT)
 
+0.0.0.0 deepme.com
 0.0.0.0 nearme.com.cn
 0.0.0.0 garena.com
 0.0.0.0 nasageturkey.com
