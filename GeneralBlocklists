@@ -316,6 +316,8 @@
 0.0.0.0 bigo.tv
 0.0.0.0 support0.bigo.sg
 0.0.0.0 static-act.bigolive.tv
+0.0.0.0 static-web.bigolive.tv
+0.0.0.0 hk-static-web.bigolive.tv
 0.0.0.0 bigolive.tv
 
 #[Useless Apps]
