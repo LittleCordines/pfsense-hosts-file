@@ -295,6 +295,11 @@
 0.0.0.0 tiktokcdn.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 log.tiktokv.com
+0.0.0.0 hotapi-i18n.tiktokv.com
+0.0.0.0 api16-core-c-useast2a.tiktokv.com
+0.0.0.0 webcast22-normal-c-useast2a.tiktokv.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 vcs-i18n.tiktokv.com
 0.0.0.0 api16-normal-c-alisg.tiktokv.com
 0.0.0.0 p16-tiktok-sign-sg-h2.ibyteimg.com
 0.0.0.0 p16-tiktok-va-h2.ibyteimg.com
