@@ -101,7 +101,6 @@
 0.0.0.0 360.cn
 0.0.0.0 rongcloud.cn
 0.0.0.0 sickchirpse.com
-0.0.0.0 ipinfo.io
 0.0.0.0 pinterest.dk
 0.0.0.0 pinterest.ca
 0.0.0.0 pinterest.com
@@ -250,10 +249,6 @@
 0.0.0.0 17.live
 0.0.0.0 nonolive.com
 0.0.0.0 tango.me
-0.0.0.0 tiktokcdn.com
-0.0.0.0 tiktokv.com
-0.0.0.0 tiktok.com
-0.0.0.0 tiktok.tv
 
 #[Bigo] #[Tiktok]
 0.0.0.0 bstream.sgmbocast.com
@@ -326,6 +321,10 @@
 0.0.0.0 static-web.bigolive.tv
 0.0.0.0 hk-static-web.bigolive.tv
 0.0.0.0 bigolive.tv
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 tiktok.com
+0.0.0.0 tiktok.tv
 
 #[Useless Apps]
 0.0.0.0 oktv.com
