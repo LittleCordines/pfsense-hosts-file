@@ -2,9 +2,8 @@
 # Updated version which is most blacklists still not blocking this listed domains
 # Still in progress & will be updated frequently
 #
-# Date: 20 DEC 2021 (GMT)
+# Date: 27 FEB 2022 (GMT)
 
-0.0.0.0 tiktokcdn-us.com
 0.0.0.0 mobhey.com
 0.0.0.0 bstarstatic.com
 0.0.0.0 hdslb.com
@@ -252,6 +251,7 @@
 0.0.0.0 tango.me
 
 #[Bigo] #[Tiktok]
+0.0.0.0 tiktokcdn-us.com
 0.0.0.0 bstream.sgmbocast.com
 0.0.0.0 sgmbocast.com
 0.0.0.0 esx.bigo.sg
