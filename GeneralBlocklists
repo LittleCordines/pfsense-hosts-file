@@ -4,6 +4,7 @@
 #
 # Date: 27 FEB 2022 (GMT)
 
+0.0.0.0 miwifi.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 mobhey.com
 0.0.0.0 bstarstatic.com
@@ -274,6 +275,14 @@
 0.0.0.0 pull-c5-va01.tiktokcdn.com
 0.0.0.0 pull-a5-va01.tiktokcdn.com
 0.0.0.0 api16-normal-c-useast2a.tiktokv.com
+0.0.0.0 push-rtmp-l11-gcp01.ttlivecdn.com
+0.0.0.0 pull-cmaf-f16-gcp01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l16-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-f11-gcp01.tiktokcdn.com
+0.0.0.0 push-rtmp-f5-gcp01.ttlivecdn.com
+0.0.0.0 pull-flv-l16-gcp01.tiktokcdn.com
+0.0.0.0 push-rtmp-f5-gcp01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f58-sg01.tiktokcdn.com
 0.0.0.0 tiktokcdn-us.com
 0.0.0.0 bstream.sgmbocast.com
 0.0.0.0 sgmbocast.com
