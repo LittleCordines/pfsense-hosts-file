@@ -595,7 +595,6 @@
 0.0.0.0 apis.roblox.com
 0.0.0.0 api.roblox.com
 0.0.0.0 clientsettingscdn.roblox.com
-0.0.0.0 xboxab.com
 0.0.0.0 ecsv2.roblox.com
 0.0.0.0 client.discovery.minecraft-services.net
 0.0.0.0 minecraft-services.net
@@ -641,6 +640,7 @@
 0.0.0.0 sun1-25.userapi.com
 0.0.0.0 na-centra.shadow.igamecj.com
 0.0.0.0 pay.igamecj.com
+0.0.0.0 www.xboxab.com
 0.0.0.0 xboxab.com
 0.0.0.0 mc-nat-t.cloudapp.net
 
