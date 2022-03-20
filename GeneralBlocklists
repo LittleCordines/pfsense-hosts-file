@@ -2,7 +2,7 @@
 # Updated version which is most blacklists still not blocking this listed domains
 # Still in progress & will be updated frequently
 #
-# Date: 17 MAC 2022 (GMT)
+# Date: 20 MAC 2022 (GMT)
 
 0.0.0.0 miwifi.com
 0.0.0.0 imrworldwide.com
@@ -563,6 +563,53 @@
 0.0.0.0 helpshift.com
 0.0.0.0 igamecj.com
 0.0.0.0 pubgmobile.com
+
+##[OnlineGames]
+0.0.0.0 dl.castle.freefiremobile.com
+0.0.0.0 freefiremobile.com
+0.0.0.0 csoversea.stronghold.freefiremobile.com
+0.0.0.0 client.common.freefiremobile.com
+0.0.0.0 freefiremobile-a.akamaihd.net
+0.0.0.0 sg.event.freefiremobile.com
+0.0.0.0 sg.tdatamaster.com
+0.0.0.0 tencentgames.helpshift.com
+0.0.0.0 ig-us-sdkapi.igamecj.com
+0.0.0.0 cloudctrl.igamecj.com
+0.0.0.0 download.2.1375135419.igame.gcloudcs.com
+0.0.0.0 puffer.4.1375135419.igame.gcloudcs.com
+0.0.0.0 k.gjacky.com
+0.0.0.0 dl.listdl.com
+0.0.0.0 cloud.vmp.onezapp.com
+0.0.0.0 android.crashsight.wetest.net
+0.0.0.0 cloud.gsdk.proximabeta.com
+0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 napubgm.broker.amsoveasea.com
+0.0.0.0 hkspeed.igamecj.com
+0.0.0.0 roblox.com
+0.0.0.0 thumbnails.roblox.com
+0.0.0.0 locale.roblox.com
+0.0.0.0 catalog.roblox.com
+0.0.0.0 avatar.roblox.com
+0.0.0.0 ephemeralcounters.api.roblox.com
+0.0.0.0 abtesting.roblox.com
+0.0.0.0 apis.roblox.com
+0.0.0.0 api.roblox.com
+0.0.0.0 clientsettingscdn.roblox.com
+0.0.0.0 xboxab.com
+0.0.0.0 ecsv2.roblox.com
+0.0.0.0 client.discovery.minecraft-services.net
+0.0.0.0 minecraft-services.net
+0.0.0.0 minecraftprod.rtep.msgamestudios.com
+0.0.0.0 msgamestudios.com
+0.0.0.0 xforgeassets001.xboxlive.com
+0.0.0.0 xforgeassets002.xboxlive.com
+0.0.0.0 play.galaxite.net
+0.0.0.0 mco.cubecraft.net
+0.0.0.0 mco.mineplex.com
+0.0.0.0 geo.hivebedrock.network
+0.0.0.0 play.pixelparadise.gg
+0.0.0.0 mco.lbsg.net
+0.0.0.0 play.inpvp.net
 
 # End
 # blacklist
