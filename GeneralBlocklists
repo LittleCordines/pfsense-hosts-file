@@ -643,6 +643,14 @@
 0.0.0.0 www.xboxab.com
 0.0.0.0 xboxab.com
 0.0.0.0 mc-nat-t.cloudapp.net
+0.0.0.0 2007-shadow.igamecj.com
+0.0.0.0 kj-se.shadow.igamecj.com
+0.0.0.0 hkping.igamecj.com
+0.0.0.0 sa-scl.shadow.igamecj.com
+0.0.0.0 as-hk.shadow.igamecj.com
+0.0.0.0 as-sg.shadow.igamecj.com
+0.0.0.0 3022-shadow.igamecj.com
+0.0.0.0 5004-shadow.igamecj.com
 
 # End
 # blacklist
