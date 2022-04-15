@@ -565,12 +565,14 @@
 0.0.0.0 pubgmobile.com
 
 ##[OnlineGames]
-0.0.0.0 dl.castle.freefiremobile.com
-0.0.0.0 freefiremobile.com
-0.0.0.0 csoversea.stronghold.freefiremobile.com
-0.0.0.0 client.common.freefiremobile.com
-0.0.0.0 freefiremobile-a.akamaihd.net
-0.0.0.0 sg.event.freefiremobile.com
+#0.0.0.0 version.common.freefiremobile.com
+#0.0.0.0 login.common.freefiremobile.com
+#0.0.0.0 dl.castle.freefiremobile.com
+#0.0.0.0 freefiremobile.com
+#0.0.0.0 csoversea.stronghold.freefiremobile.com
+#0.0.0.0 client.common.freefiremobile.com
+#0.0.0.0 freefiremobile-a.akamaihd.net
+#0.0.0.0 sg.event.freefiremobile.com
 0.0.0.0 sg.tdatamaster.com
 0.0.0.0 tencentgames.helpshift.com
 0.0.0.0 ig-us-sdkapi.igamecj.com
@@ -609,10 +611,8 @@
 0.0.0.0 play.pixelparadise.gg
 0.0.0.0 mco.lbsg.net
 0.0.0.0 play.inpvp.net
-0.0.0.0 version.common.freefiremobile.com
 0.0.0.0 100067.connect.garena.com
 0.0.0.0 connect.garenanow.com
-0.0.0.0 login.common.freefiremobile.com
 0.0.0.0 api.club.gpubgm.com
 0.0.0.0 intlsdk.igamecj.com
 0.0.0.0 5005-shadow.igamecj.com
