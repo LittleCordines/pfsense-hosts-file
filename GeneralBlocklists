@@ -15,7 +15,6 @@
 0.0.0.0 momoko.co
 0.0.0.0 deepme.com
 0.0.0.0 nearme.com.cn
-0.0.0.0 garena.com
 0.0.0.0 nasageturkey.com
 0.0.0.0 alipay.com
 0.0.0.0 mba66bet.com
@@ -555,16 +554,17 @@
 0.0.0.0 nimo.tv
 0.0.0.0 huya.com
 0.0.0.0 umengcloud.com
-0.0.0.0 garenanow.com
 0.0.0.0 proximabeta.com
 0.0.0.0 itopsdk.com
-0.0.0.0 dlmobilegarena-a.akamaihd.net
 0.0.0.0 activision.com
 0.0.0.0 helpshift.com
 0.0.0.0 igamecj.com
 0.0.0.0 pubgmobile.com
 
 ##[OnlineGames]
+#0.0.0.0 garenanow.com
+#0.0.0.0 garena.com
+#0.0.0.0 dlmobilegarena-a.akamaihd.net
 #0.0.0.0 version.common.freefiremobile.com
 #0.0.0.0 login.common.freefiremobile.com
 #0.0.0.0 dl.castle.freefiremobile.com
