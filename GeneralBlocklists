@@ -562,6 +562,8 @@
 0.0.0.0 pubgmobile.com
 
 ##[OnlineGames]
+#0.0.0.0 100067.connect.garena.com
+#0.0.0.0 connect.garenanow.com
 #0.0.0.0 garenanow.com
 #0.0.0.0 garena.com
 #0.0.0.0 dlmobilegarena-a.akamaihd.net
@@ -611,8 +613,6 @@
 0.0.0.0 play.pixelparadise.gg
 0.0.0.0 mco.lbsg.net
 0.0.0.0 play.inpvp.net
-0.0.0.0 100067.connect.garena.com
-0.0.0.0 connect.garenanow.com
 0.0.0.0 api.club.gpubgm.com
 0.0.0.0 intlsdk.igamecj.com
 0.0.0.0 5005-shadow.igamecj.com
