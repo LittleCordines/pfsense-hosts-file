@@ -4,6 +4,8 @@
 #
 # Date: 16 APRIL 2022 (GMT)
 
+0.0.0.0 adserv.ontek.com.tr
+0.0.0.0 vlogerads.com
 0.0.0.0 vkcdn5.com
 0.0.0.0 miwifi.com
 0.0.0.0 imrworldwide.com
@@ -365,6 +367,10 @@
 0.0.0.0 tiktokv.com
 0.0.0.0 tiktok.com
 0.0.0.0 tiktok.tv
+0.0.0.0 frontier-i18n.tiktokv.com
+0.0.0.0 sf16-ies-music-va.tiktokcdn.com
+0.0.0.0 sf53-ies-music-sg.tiktokcdn.com
+0.0.0.0 sf16-ies-music-sg.tiktokcdn.com
 0.0.0.0 push-rtmp-f5-ab.tiktokcdn.com
 0.0.0.0 pull-f5-sg01.ttlivecdn.com
 0.0.0.0 push-rtmp-l11.tiktokcdn.com
