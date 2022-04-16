@@ -2,8 +2,9 @@
 # Updated version which is most blacklists still not blocking this listed domains
 # Still in progress & will be updated frequently
 #
-# Date: 20 MAC 2022 (GMT)
+# Date: 16 APRIL 2022 (GMT)
 
+0.0.0.0 vkcdn5.com
 0.0.0.0 miwifi.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 mobhey.com
