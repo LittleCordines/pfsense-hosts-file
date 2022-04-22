@@ -264,6 +264,13 @@
 0.0.0.0 tiktokcdn-us.com
 0.0.0.0 tiktokcdn.com
 0.0.0.0 v53.tiktokcdn.com
+0.0.0.0 pull-f5-tt02.tiktokcdn.com
+0.0.0.0 mon-sg.tiktokv.com
+0.0.0.0 pull-a5-gcp01.tiktokcdn.com
+0.0.0.0 pull-f5-tt02.fcdn.us.tiktokv.com
+0.0.0.0 pull-a5-sg01.tiktokcdn.com
+0.0.0.0 push-rtmp-f5-tt02.fcdn.us.tiktokv.com
+0.0.0.0 pull-f5-tt02.tiktokcdn.com
 0.0.0.0 pull-cmaf-l16-gcp01.tiktokcdn.com
 0.0.0.0 pull-flv-l16-tt01.tiktokcdn-us.com
 0.0.0.0 pull-cmaf-l16-tt01.tiktokcdn-us.com
