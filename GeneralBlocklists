@@ -507,6 +507,14 @@
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com
 
 #[Useless Apps]
+
+0.0.0.0 icocofun.com
+0.0.0.0 akvideo01.icocofun.com
+0.0.0.0 stat.icocofun.com
+0.0.0.0 adapi.icocofun.com
+0.0.0.0 akimg.icocofun.com
+0.0.0.0 api.icocofun.com
+0.0.0.0 diagnosis.icocofun.com
 0.0.0.0 oktv.com
 0.0.0.0 37games.com
 0.0.0.0 geventsapi.37games.com
