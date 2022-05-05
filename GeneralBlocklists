@@ -507,9 +507,19 @@
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com
 
 #[Useless Apps]
-
 0.0.0.0 icocofun.com
 0.0.0.0 akvideo01.icocofun.com
+0.0.0.0 akvideo02.icocofun.com
+0.0.0.0 akvideo03.icocofun.com
+0.0.0.0 akvideo04.icocofun.com
+0.0.0.0 akvideo05.icocofun.com
+0.0.0.0 akvideo06.icocofun.com
+0.0.0.0 akvideo07.icocofun.com
+0.0.0.0 akvideo08.icocofun.com
+0.0.0.0 akvideo09.icocofun.com
+0.0.0.0 apm.thefrodo.com
+0.0.0.0 thefrodo.com
+0.0.0.0 live.icocofun.com
 0.0.0.0 stat.icocofun.com
 0.0.0.0 adapi.icocofun.com
 0.0.0.0 akimg.icocofun.com
