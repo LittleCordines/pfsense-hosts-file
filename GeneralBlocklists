@@ -508,6 +508,14 @@
 
 #[Useless Apps]
 0.0.0.0 akimg.akamaized.net
+0.0.0.0 bilivideo.com
+0.0.0.0 upos-sz-staticcos.bilivideo.com
+0.0.0.0 biliintl.com
+0.0.0.0 data.biliintl.com
+0.0.0.0 api.biliintl.com
+0.0.0.0 broadcast.biliintl.com
+0.0.0.0 app.biliintl.com
+0.0.0.0 broadcast.biliintl.com
 0.0.0.0 icocofun.com
 0.0.0.0 akvideo01.icocofun.com
 0.0.0.0 akvideo02.icocofun.com
