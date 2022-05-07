@@ -507,6 +507,11 @@
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com
 
 #[Useless Apps]
+0.0.0.0 upos-bstar1-mirrorakam.akamaized.net
+0.0.0.0 pic.bstarstatic.com
+0.0.0.0 i0.hdslb.com
+0.0.0.0 api.bilibili.com
+0.0.0.0 p.bstarstatic.com
 0.0.0.0 akimg.akamaized.net
 0.0.0.0 bilivideo.com
 0.0.0.0 upos-sz-staticcos.bilivideo.com
