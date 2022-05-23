@@ -1,1 +1,1 @@
-Hello. I am new to github & pfsense. This hosts file is in 'testing mode' with my new pfsense setup for my small office network. Since my office has changed ISP to higher speed then before, with limited quota, which is 450GB / month, so I need to do some 'trick' to control access & bandwidth usage.. If this work, so I need to setup another office with the same setting. I need guides from you guys in here. And sorry for my bad english.
+
