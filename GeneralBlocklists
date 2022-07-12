@@ -2,8 +2,9 @@
 # Updated version which is most blacklists still not blocking this listed domains
 # Still in progress & will be updated frequently
 #
-# Date: 18 MAY 2022 (GMT)
+# Date: 12 JULY 2022 (GMT)
 
+0.0.0.0 naver.com
 0.0.0.0 cloud.tenda.com.cn
 0.0.0.0 tenda.com.cn
 0.0.0.0 tendacn.com
@@ -288,6 +289,17 @@
 0.0.0.0 pull-flv-l11-sg01.tiktokcdn.com
 0.0.0.0 pull-flv-l1-sg01.tiktokcdn.com
 0.0.0.0 pull-cmaf-f16-gcp01.ttlivecdn.com
+0.0.0.0 log16-normal-useast2a.tiktokv.com
+0.0.0.0 bsync-i18n.tiktokv.com
+0.0.0.0 v39-dynamic-kul1.tiktokcdn.com
+0.0.0.0 mssdk22-normal-alisg.tiktokv.com
+0.0.0.0 bsync-i18n.tiktokv.com
+0.0.0.0 pull-cmaf-f77-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-f77-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-tt02.fcdn.us.tiktokv.com
+0.0.0.0 pull-cmaf-f16-tt02.tiktokcdn.com
+0.0.0.0 pull-flv-f77-va01.tiktokcdn.com
+0.0.0.0 pull-flv-f77-gcp01.tiktokcdn.com
 0.0.0.0 pull-w5-va01.tiktokcdn.com
 0.0.0.0 pull-c5-va01.tiktokcdn.com
 0.0.0.0 pull-a5-va01.tiktokcdn.com
