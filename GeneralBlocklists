@@ -533,6 +533,16 @@
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com
 
 #[Useless Apps]
+0.0.0.0 akimg.icocofun.com
+0.0.0.0 icocofun.com
+0.0.0.0 akimg.akamaized.net
+0.0.0.0 diagnosis.icocofun.com
+0.0.0.0 stat.icocofun.com
+0.0.0.0 icocofun.com
+0.0.0.0 api.icocofun.com
+0.0.0.0 akvideo01.akamaized.net
+0.0.0.0 akvideo02.icocofun.com
+0.0.0.0 akvideo01.icocofun.com
 0.0.0.0 cinema-asia.tango.me
 0.0.0.0 tango.me
 0.0.0.0 cget.tango.me
