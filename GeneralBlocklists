@@ -2,8 +2,9 @@
 # Updated version which is most blacklists still not blocking this listed domains
 # Still in progress & will be updated frequently
 #
-# Date: 21 DEC 2022 (GMT)
+# Date: 05 FEB 2023 (GMT)
 
+0.0.0.0 detars.com
 0.0.0.0 regal88.club
 0.0.0.0 doubleadserve.com
 0.0.0.0 preoccupycommittee.com
@@ -151,23 +152,6 @@
 0.0.0.0 wildz.com
 0.0.0.0 gametwist.com
 0.0.0.0 daybet365.com
-
-#[Psiphon]
-0.0.0.0 autocentral.org
-0.0.0.0 buydomains.com
-0.0.0.0 nasageturkey.com
-
-#[ModdedApkSites]
-0.0.0.0 modapkdl.io
-
-#[Movie Download Site]
-0.0.0.0 dramacool.video
-0.0.0.0 cgv.id
-0.0.0.0 layarkaca21.red
-0.0.0.0 mkvking.com
-0.0.0.0 movisubmalay.com
-0.0.0.0 tv21.biz
-0.0.0.0 tv21.org
 
 #[Android OS Update]
 0.0.0.0 coloros.com
