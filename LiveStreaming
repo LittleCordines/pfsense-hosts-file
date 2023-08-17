@@ -4,6 +4,11 @@
 #
 # Date: 17 AUG 2023 (GMT)
 
+0.0.0.0 https-api.bigolive.tv
+0.0.0.0 newlbs.live.bigo.sg
+0.0.0.0 hotroom.live.bigo.sg
+0.0.0.0 videosnap.esx.bigo.sg
+0.0.0.0 socks.live.bigo.sg
 0.0.0.0 frontmon-sysop.bigo.sg
 0.0.0.0 ta.bigolive.tv
 0.0.0.0 static-fed.bigolive.tv
