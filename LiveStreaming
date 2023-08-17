@@ -4,6 +4,18 @@
 #
 # Date: 17 AUG 2023 (GMT)
 
+0.0.0.0 pull-c5-gcp01.tiktokcdn.com
+0.0.0.0 pull-flv-f77-tt02.fcdn.us.tiktokv.com
+0.0.0.0 pull-f5-tt01.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-f5-vr-va01.tiktokcdn.com
+0.0.0.0 pull-flv-f1-gcp01.tiktokcdn.com
+0.0.0.0 pull-f5-tt03.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-f5-tt02.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-flv-f77-tt02.tiktokcdn.com
+0.0.0.0 pull-f5-sg01.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-f5-tt01.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-flv-f1-gcp01.tiktokcdn.com
+0.0.0.0 pull-f5-tt03.fcdn.eu.tiktokcdn.com
 0.0.0.0 giftesx.bigolive.tv
 0.0.0.0 imgsnap.bigo.sg
 0.0.0.0 fbesx.bigo.sg
